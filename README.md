@@ -7,7 +7,12 @@
     * `conda create -n stanbayes -c conda-forge python=3.11` (*1)
     * (optional) `conda info --envs`：仮想環境一覧確認
     * `conda activate stanbayes`
-1. `conda install "pymc>=5.11"` 
+    
+1. 各種インストール
+    * `conda install "pymc>=5.11"` 
+    * `pip install japanize-matplotlib`
+    * `conda install seaborn`
+
 1. `pip install jax jaxlib numpyro` 
     * -> requirements.txt参照
     * しかしこれでまだスピードアップしたわけではなさそう。結構時間がかかってる気がする。
