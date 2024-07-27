@@ -18,5 +18,10 @@
     * しかしこれでまだスピードアップしたわけではなさそう。結構時間がかかってる気がする。
 1. `conda install -n [環境名] ipykernel --update-deps --force-reinstall`
 
+1. requirements.txtのアップデート
+```
+conda list > requirements.txt
+```
+
 ### 補足
 1. pymc installation : https://www.pymc.io/projects/docs/en/stable/installation.html 
