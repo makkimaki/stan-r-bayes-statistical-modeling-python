@@ -78,10 +78,12 @@ importlib-metadata        8.0.0              pyha770c72_0    conda-forge
 importlib_metadata        8.0.0                hd8ed1ab_0    conda-forge
 ipykernel                 6.29.5             pyh57ce528_0    conda-forge
 ipython                   8.26.0             pyh707e725_0    conda-forge
+japanize-matplotlib       1.1.3                    pypi_0    pypi
 jax                       0.4.30                   pypi_0    pypi
 jaxlib                    0.4.30                   pypi_0    pypi
 jedi                      0.19.1             pyhd8ed1ab_0    conda-forge
 jinja2                    3.1.4              pyhd8ed1ab_0    conda-forge
+joblib                    1.4.2              pyhd8ed1ab_0    conda-forge
 jupyter_client            8.6.2              pyhd8ed1ab_0    conda-forge
 jupyter_core              5.7.2           py311h267d04e_0    conda-forge
 kiwisolver                1.4.5           py311he4fd1f5_1    conda-forge
@@ -160,6 +162,7 @@ packaging                 24.1               pyhd8ed1ab_0    conda-forge
 pandas                    2.2.2           py311h4b4568b_1    conda-forge
 pango                     1.54.0               h9ee27a3_1    conda-forge
 parso                     0.8.4              pyhd8ed1ab_0    conda-forge
+patsy                     0.5.6              pyhd8ed1ab_0    conda-forge
 pcre2                     10.44                h297a79d_0    conda-forge
 pexpect                   4.9.0              pyhd8ed1ab_0    conda-forge
 pickleshare               0.7.5                   py_1003    conda-forge
@@ -194,12 +197,16 @@ readline                  8.2                  h92ec313_1    conda-forge
 requests                  2.32.3             pyhd8ed1ab_0    conda-forge
 rich                      13.7.1             pyhd8ed1ab_0    conda-forge
 safetensors               0.4.3           py311h94f323b_0    conda-forge
+scikit-learn              1.5.1           py311hbfb48bc_0    conda-forge
 scipy                     1.13.1          py311hceeca8c_0    conda-forge
+seaborn                   0.13.2               hd8ed1ab_2    conda-forge
+seaborn-base              0.13.2             pyhd8ed1ab_2    conda-forge
 setuptools                71.0.4             pyhd8ed1ab_0    conda-forge
 sigtool                   0.1.3                h44b9a77_0    conda-forge
 six                       1.16.0             pyh6c4a22f_0    conda-forge
 sleef                     3.6.1                hf6b88df_1    conda-forge
 stack_data                0.6.2              pyhd8ed1ab_0    conda-forge
+statsmodels               0.14.2          py311h5d790af_0    conda-forge
 sympy                     1.13.0          pypyh2585a3b_103    conda-forge
 tapi                      1100.0.11            he4954df_0    conda-forge
 threadpoolctl             3.5.0              pyhc1e730c_0    conda-forge
